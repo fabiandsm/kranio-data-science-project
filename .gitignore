@@ -1,0 +1,14 @@
+# Outputs y modelos generados
+outputs/
+models/
+
+# Datos generados
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.env
