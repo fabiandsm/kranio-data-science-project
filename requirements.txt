@@ -1,0 +1,21 @@
+# === Core Data Science ===
+pandas
+numpy
+scikit-learn
+joblib
+
+# === Visualización ===
+matplotlib
+seaborn
+plotly
+
+# === Notebooks ===
+jupyter
+ipykernel
+
+# === API testing local ===
+fastapi
+uvicorn
+
+# === Utilidades ===
+pydantic
